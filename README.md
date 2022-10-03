@@ -2,7 +2,7 @@
 
 The game "Warship".</b>
 
-This game was made for studying programming. The main parts of the code were taken from Egor Zakutenko's code from this [presantation] (https://egorzak21.github.io/presentations/04_battle/pres.html#1) (RU).
+This game was made for studying programming. The main parts of the code were taken from Egor Zakutenko's code from this [presantation](https://egorzak21.github.io/presentations/04_battle/pres.html#1) (RU).
 
 The main goal of this game is simple: <b>Defeat your enemy <n>(AI)</n> by destroying all of his ships</b> before it destroys yours.
 
@@ -16,7 +16,7 @@ Also I must admit that I couldn't make my own code so I had to use my course men
 
 Игра «Морской Бой».</b>
 
-Эта игра была создана для изучения программирования. Основные части кода были взяты из кода Егора Закутенко из этой [презентации] (https://egorzak21.github.io/presentations/04_battle/pres.html#1 ) (RU).
+Эта игра была создана для изучения программирования. Основные части кода были взяты из кода Егора Закутенко из этой [презентации](https://egorzak21.github.io/presentations/04_battle/pres.html#1)(RU).
 
 Главная цель этой игры проста: <b>Победите своего врага <n>(Бота)</n>, уничтожив все его корабли</b>, прежде чем он уничтожит ваши.
 
